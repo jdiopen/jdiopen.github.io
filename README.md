@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## JDI Open
 
-You can use the [editor on GitHub](https://github.com/jdiopen/jdiopen.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are an open science journal-club & peer-mentoring group at the [UCL Jill Dando Institute of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute). Our bi-weekly seminars provide the opportunity for students and staff at the department to learn about open science and discuss ideas to implement open science practices in their research.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open science content! 
 
-### Markdown
+### Upcoming events
+- **15/10/18 1-2PM in the teaching room: Open Science Q&A.** Bring all your questions and concerns regarding open science to our first session of the academic year! A great opportunity to get acquainted if you have missed our previous sessions! 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jdiopen/jdiopen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Getting started 
+Curious about open science and the many ways you can implement it in your research? Too lazy too read? Check out our "no-reading reading list" which contains lots of great videos and podcasts to ease you into the open science movement.
