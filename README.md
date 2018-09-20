@@ -8,4 +8,4 @@ Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open 
 - **15/10/18 1-2PM in the teaching room: Open Science Q&A.** Bring all your questions and concerns regarding open science to our first session of the academic year! A great opportunity to get acquainted if you have missed our previous sessions.
 
 ### Getting started 
-Curious about open science and the many ways you can implement it in your research? Too lazy too read? Check out our "no-reading reading list" which contains lots of great videos and podcasts to ease you into the open science movement.
+Curious about open science and the many ways you can implement it in your research? Too lazy too read? Check out our ["no-reading reading list"](https://jdiopen.github.io/noreading.pdf) which contains lots of great videos and podcasts to ease you into the open science movement.
