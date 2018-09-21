@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: README
 title: Library
 subtitle: Previous sessions and readings
 ---
