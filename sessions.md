@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Library
 subtitle: Previous sessions and readings
 ---
