@@ -5,7 +5,7 @@ We are an open science journal-club & peer-mentoring group at the [UCL Jill Dand
 Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open science content! 
 
 ### Upcoming events
-- **15/10/18 1-2PM in the teaching room: Introduction to Open Science and Q&A.** Bring all your questions and concerns regarding open science to our first session of the academic year! A great opportunity to get acquainted if you have missed our previous sessions. **Reading [here](https://psyarxiv.com/ak6jr)** 
+- **15/10/18 1-2PM in the teaching room: Introduction to Open Science and Q&A.** Bring all your questions and concerns regarding open science to our first session of the academic year! A great opportunity to get acquainted if you have missed our previous sessions. **Find the reading [here](https://psyarxiv.com/ak6jr).** 
 - **29/10/18 The responsible use of p-values and an introduction to power analysis** 
 - **12/11/18 Open Science for your career**
 - **26/11/18 Sharing code, sharing data**
