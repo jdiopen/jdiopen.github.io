@@ -7,8 +7,8 @@ Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open 
 ### Upcoming events (All: 1-2 PM in the teaching room)
 - **29/10/18 The responsible use of p-values and an introduction to power analysis.** 
 - **12/11/18 Open Science for your career**
-- **26/11/18 Sharing code, sharing data**
-- **10/12/18 Open Access Publishing: Opportunities and Challenges**
+- **26/11/18 **Open Access Publishing: Opportunities and Challenges**
+- **10/12/18 **Sharing code, sharing data**
 
 ### Previous sessions
 - Introduction to Open Science session on 15/10/18. Check out the [slides](jdiopen.github.io/introduction_slides.pptx) and [reading](https://psyarxiv.com/ak6jr).
