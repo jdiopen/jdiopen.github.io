@@ -4,7 +4,7 @@ We are an open science journal-club & peer-mentoring group at the [UCL Jill Dand
 
 Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open science content! 
 
-### Upcoming events (All: 1-2 PM in the teaching room)
+### Upcoming events (All: Mondays 1-2 PM in the teaching room)
 - **29/10/18 The responsible use of p-values and an introduction to power analysis.** 
 - **12/11/18 Open Science for your career**
 - **26/11/18 Open Access Publishing: Opportunities and Challenges**
