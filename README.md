@@ -10,8 +10,8 @@ Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open 
 - **26/11/18 Sharing code, sharing data**
 - **10/12/18 Open Access Publishing: Opportunities and Challenges**
 
-### Resources
-- Curious about open science? Too lazy too read? Check out our ["no-reading reading list"](https://jdiopen.github.io/noreading.pdf) which contains lots of great videos and podcasts to ease you into the open science movement. Don't mind a little bit of reading? Check out the papers on our [OSF page](https://osf.io/ymw3e/).
-
 ### Previous sessions
-- Introduction to Open Science session on 15/10/18. Check out the [slides]https://jdiopen.github.io/introduction_slides.pptx. and [reading](https://psyarxiv.com/ak6jr).
+- Introduction to Open Science session on 15/10/18. Check out the [slides](jdiopen.github.io/introduction_slides.pptx) and [reading](https://psyarxiv.com/ak6jr).
+
+### Resources
+- Curious about open science? Too lazy too read? Check out our ["no-reading reading list"](https://jdiopen.github.io/noreading.pdf) which contains lots of great videos and podcasts to ease you into the open science movement. 
