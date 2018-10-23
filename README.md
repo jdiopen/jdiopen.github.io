@@ -9,7 +9,7 @@ Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open 
 
 ### Upcoming sessions
 - **12/11/18 Open Science for your career**
-- **26/11/18 Open Access Publishing: Opportunities and Challenges: Invited Speakers from UCL Library Open Access Team**
+- **26/11/18 Open Access Publishing: Opportunities and Challenges**: Invited Speakers from UCL Library Open Access Team!
 - **10/12/18 Sharing code, sharing data**
 
 ### Previous sessions
