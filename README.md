@@ -5,11 +5,11 @@ We are an open science journal-club & peer-mentoring group at the [UCL Jill Dand
 Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open science content! 
 
 ### Next session (All: Mondays 1-2 PM in the teaching room)
-- **29/10/18 The responsible use of p-values and an introduction to power analysis.** We start the session with the question ‘what is the p-value?’ and explore how type-I and type-II errors influence statistical analysis. We then introduce confidence intervals as well as power analyses and tools to improve your ability to draw statistical inferences. Please check out readings for this session [here](https://link.springer.com/article/10.1007/s10654-016-0149-3) and [here](http://www.jgme.org/doi/abs/10.4300/JGME-D-12-00156.1?code=gmed-site). 
+- **29/10/18 How-to: preregistrations.** The goal of this session is to show you how pre-registration of a study and analysis helps to make research reproducible and (important for everyone), if done well, efficiently structures your research process. We will introduce an example of a pre-registration template and walk you through the steps to complete it. Please check out readings for this session [here](https://osf.io/2dxu5/) and [here](https://www.sciencedirect.com/science/article/pii/S0022103116301925). 
 
 ### Upcoming sessions
 - **12/11/18 Open Science for your career**
-- **26/11/18 Open Access Publishing: Opportunities and Challenges**
+- **26/11/18 Open Access Publishing: Opportunities and Challenges: Invited Speakers from UCL Library Open Access Team**
 - **10/12/18 Sharing code, sharing data**
 
 ### Previous sessions
