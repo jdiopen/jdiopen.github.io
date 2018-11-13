@@ -5,7 +5,7 @@ We are an open science journal-club & peer-mentoring group at the [UCL Jill Dand
 Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open science content! 
 
 ### Next session (All: Mondays 1-2 PM in the teaching room)
-- **26/11/18 Open Access Publishing: Opportunities and Challenges.** Invited Speakers from UCL Library Open Access Team!
+- **26/11/18 Open Access Publishing: Opportunities and Challenges.** Invited speakers from UCL Library Open Access Team!
 
 ### Upcoming sessions
 - **10/12/18 Sharing code, sharing data**
