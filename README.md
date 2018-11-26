@@ -5,12 +5,12 @@ We are an open science journal-club & peer-mentoring group at the [UCL Jill Dand
 Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open science content! 
 
 ### Next session (All: Mondays 1-2 PM in the teaching room)
-- **26/11/18 Open Access Publishing: Opportunities and Challenges.** Invited speakers from UCL Library Open Access Team!
 
 ### Upcoming sessions
-- **10/12/18 Sharing code, sharing data**
+- 10/12/18 Sharing code, sharing data. PLEASE NOTE: 12-1 PM!
 
 ### Previous sessions
+- 26/11/18 Open Access Publishing: Opportunities and Challenges. Invited speakers from UCL Library Open Access Team discuss Plan S and (UCL) opportunities for OA publishing. [Slides](jdiopen.github.io/openaccess.ppt).
 - 12/11/18: Open Science for your career. Slides [here.](jdiopen.github.io/openscience_dscs_12112018.pptx)
 - 15/10/18 Introduction to Open Science. Check out the [slides](jdiopen.github.io/introduction_slides.pptx) and [reading](https://psyarxiv.com/ak6jr).
 - 29/10/18 How-to: preregistrations. Readings [here](https://osf.io/2dxu5/) and [here](https://www.sciencedirect.com/science/article/pii/S0022103116301925), [slides](jdiopen.github.io/preregistrations.pptx) and [recording](https://mediacentral.ucl.ac.uk/Player/48885135).
