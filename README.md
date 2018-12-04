@@ -7,7 +7,8 @@ Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open 
 ### Next session (All: Mondays 1-2 PM in the teaching room)
 
 ### Upcoming sessions
-- 10/12/18 Sharing code, sharing data. PLEASE NOTE: 12-1 PM!
+- **10/12/18 Sharing code, sharing data.** PLEASE NOTE: 12-1 PM! We will talk about 'Sharing code and data', two aspects of open science that are perhaps the most controversial. We will present tools and strategies for sharing code and data, and we will discuss how you can address potential limitations to sharing (i.e., identifiable, personal data).
+- **28/1/18 Open Education.** A talk from UCL libraries on Open Education - a UCL initiative that promotes sharing education outputs. [Website](https://www.ucl.ac.uk/open-education/).
 
 ### Previous sessions
 - 26/11/18 Open Access Publishing: Opportunities and Challenges. Invited speakers from UCL Library Open Access Team discuss Plan S and (UCL) opportunities for OA publishing. [Slides](jdiopen.github.io/openaccess.ppt).
