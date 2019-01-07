@@ -7,6 +7,7 @@ Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open 
 ### Next session (All: Mondays 1-2 PM in the teaching room)
 
 ### Upcoming sessions
+- **14/1/18 P-values & power.** We start the session with the question ‘what is the p-value?’ and explore how type-I and type-II errors influence statistical analysis. We then introduce confidence intervals as well as power analyses as tools to improve your ability to draw statistical inferences.
 - **28/1/18 Open Education.** A talk from UCL libraries on Open Education - a UCL initiative that promotes sharing education outputs. [Website](https://www.ucl.ac.uk/open-education/).
 - **MORE TO BE ANNOUNCED**
 
