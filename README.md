@@ -11,7 +11,7 @@ Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open 
 - **MORE INFO TO BE ANNOUNCED**
 
 ### Previous sessions
-- 28/1/18 **Open Education**. A talk from UCL libraries on Open Education: a UCL initiative that promotes sharing education outputs. [Website](https://www.ucl.ac.uk/open-education/) & [slides](jdiopen.github.io/open_education.pptx).      
+- 28/1/18 **Open Education**. A talk from UCL libraries on Open Education: a UCL initiative that promotes sharing education outputs. [Website](https://www.ucl.ac.uk/open-education/) & [slides](https://open-education-repository.ucl.ac.uk/id/document/1014).      
 - 14/1/18 **P-values & power**. We start the session with the question ‘what is the p-value?’ and explore how type-I and type-II errors influence statistical analysis. We then introduce confidence intervals as well as power analyses as tools to improve your ability to draw statistical inferences.
 - 10/12/18 **Sharing code, sharing data**. We present tools and strategies for sharing code and data, and discuss how you can address potential limitations to sharing (i.e., identifiable, personal data). [Recording](https://mediacentral.ucl.ac.uk/Play/16095) and [slides](jdiopen.github.io/codesharing.pdf). 
 - 26/11/18 **Open Access Publishing**: Opportunities and Challenges. Invited speakers from UCL Library Open Access Team discuss Plan S and (UCL) opportunities for OA publishing. [Slides](jdiopen.github.io/openaccess.ppt).
