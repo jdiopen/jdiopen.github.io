@@ -5,7 +5,7 @@ We are an open science journal-club & peer-mentoring group at the [UCL Jill Dand
 Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open science content! 
 
 ### Upcoming sessions
-
+TBA!
 
 ### Previous sessions
 - 25/2/18 **Responsible use of bibliometrics**. The increasing attention on metrics for measuring and assessing research has led to more attention on the fundamental question of whether or not these metrics actually tell us anything useful. From the h-index to the impact factor, many of the most commonly used bibliometrics are misleading or easily misinterpreted, and over-dependence on them can even encourage bad research practices. This talk outlines the push for “responsible metrics”, the work being done at UCL to support this, and what it might mean for the development of Open Science. [Slides.](jdiopen.github.io/bibliometrics.pptx)     
