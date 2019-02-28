@@ -5,9 +5,10 @@ We are an open science journal-club & peer-mentoring group at the [UCL Jill Dand
 Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open science content! 
 
 ### Upcoming sessions
-- **25/2/18 Responsible use of bibliometrics (12-1 PM)**. The increasing attention on metrics for measuring and assessing research has led to more attention on the fundamental question of whether or not these metrics actually tell us anything useful. From the h-index to the impact factor, many of the most commonly used bibliometrics are misleading or easily misinterpreted, and over-dependence on them can even encourage bad research practices. This talk outlines the push for “responsible metrics”, the work being done at UCL to support this, and what it might mean for the development of Open Science.
+
 
 ### Previous sessions
+- **25/2/18 Responsible use of bibliometrics (12-1 PM)**. The increasing attention on metrics for measuring and assessing research has led to more attention on the fundamental question of whether or not these metrics actually tell us anything useful. From the h-index to the impact factor, many of the most commonly used bibliometrics are misleading or easily misinterpreted, and over-dependence on them can even encourage bad research practices. This talk outlines the push for “responsible metrics”, the work being done at UCL to support this, and what it might mean for the development of Open Science. [Slides.](jdiopen.github.io/bibliometrics.pptx)     
 - 28/1/18 **Open Education**. A talk from UCL libraries on Open Education: a UCL initiative that promotes sharing education outputs. [Website](https://www.ucl.ac.uk/open-education/) & [slides](https://open-education-repository.ucl.ac.uk/id/document/1014).      
 - 14/1/18 **P-values & power**. We start the session with the question ‘what is the p-value?’ and explore how type-I and type-II errors influence statistical analysis. We then introduce confidence intervals as well as power analyses as tools to improve your ability to draw statistical inferences.
 - 10/12/18 **Sharing code, sharing data**. We present tools and strategies for sharing code and data, and discuss how you can address potential limitations to sharing (i.e., identifiable, personal data). [Recording](https://mediacentral.ucl.ac.uk/Play/16095) and [slides](jdiopen.github.io/codesharing.pdf). 
