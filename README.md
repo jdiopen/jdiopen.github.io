@@ -5,7 +5,7 @@ We are an open science journal-club & peer-mentoring group at the [UCL Jill Dand
 Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open science content! 
 
 ### Upcoming sessions
-- 13/5/2019 **Data sharing**
+- 13/5/2019: 12-1 PM **Data sharing**
 
 ### Previous sessions
 - 29/4/2019 **Crowd-sourcing Science**, an exciting opportunity to advance research by combining data collection and analyses efforts across multiple labs and research groups. After highlighting the advantages, we will present examples of crowdsourced projects and share our own experiences as a participant in 'massive open research projects'. The aim is to inspire some of you to either initiate or take part in similar programmes. [Slides](https://jdiopen.github.io/Crowdsourcing%20Research.pdf).
