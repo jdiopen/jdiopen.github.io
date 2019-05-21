@@ -5,7 +5,9 @@ We are an open science journal-club & peer-mentoring group at the [UCL Jill Dand
 Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open science content! 
 
 ### Upcoming sessions
-TBA!
+- 23/5/2019 **Special: UCL Open Science Day** We will speak about why and how we set up JDI Open during the UCL Open Science Day session 'building open science communities'. We will discuss successes and challenges we have encountered, specifically within a highly cross-disciplinary department that deals with sensitive data on a daily basis. 
+- 10/5/2019 TBA
+- 24/6/2019 TBA
 
 
 ### Previous sessions
