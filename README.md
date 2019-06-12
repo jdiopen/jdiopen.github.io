@@ -5,11 +5,10 @@ We are an open science journal-club & peer-mentoring group at the [UCL Jill Dand
 Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open science content! 
 
 ### Upcoming sessions
-- 10/6/2019 (12-1PM): **Registered reports.** a publishing format that is increasingly popular and accepted in different journals. Registered reports change the incentives of publishing such that papers are accepted before the study is conducted and results are known. If you wonder how this can work, come along.
 - 24/6/2019: TBA
 
-
 ### Previous sessions
+- 10/6/2019: **Registered reports.** a publishing format that is increasingly popular and accepted in different journals. Registered reports change the incentives of publishing such that papers are accepted before the study is conducted and results are known. If you wonder how this can work, come along. We used [slides](https://mfr.osf.io/render?url=https://osf.io/ux24b/?action=download%26mode=render) by Chris Chambers.
 - 23/5/2019: **Special: UCL Open Science Day.** We spoke about why and how we set up JDI Open during the UCL Open Science Day session 'building open science communities'. We discussed successes and challenges we have encountered, specifically within a highly cross-disciplinary department that deals with sensitive data on a daily basis. [Slides](jdiopen.github.io/osday.pdf).
 - 13/5/2019 **Data sharing**: Sharing data is one of the more contentious open science practices, in particular in the field of Crime Science. We will discuss why it is useful to make your data accessible and, importantly, how this can be done in line with ethics and data protection regulation. [Slides](jdiopen.github.io/datasharing.pptx) and [recording](https://open-education-repository.ucl.ac.uk//558/). 
 - 29/4/2019 **Crowd-sourcing Science**, an exciting opportunity to advance research by combining data collection and analyses efforts across multiple labs and research groups. After highlighting the advantages, we will present examples of crowdsourced projects and share our own experiences as a participant in 'massive open research projects'. The aim is to inspire some of you to either initiate or take part in similar programmes. [Slides](https://jdiopen.github.io/Crowdsourcing%20Research.pdf).
