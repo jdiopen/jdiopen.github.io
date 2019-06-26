@@ -5,7 +5,7 @@ We are an open science journal-club & peer-mentoring group at the [UCL Jill Dand
 Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open science content! 
 
 ### Upcoming sessions
-- 24/6/2019: TBA
+We'll be back after summer break! :-) 
 
 ### Previous sessions
 - 10/6/2019: **Registered reports.** a publishing format that is increasingly popular and accepted in different journals. Registered reports change the incentives of publishing such that papers are accepted before the study is conducted and results are known. If you wonder how this can work, come along. We used [slides](https://mfr.osf.io/render?url=https://osf.io/ux24b/?action=download%26mode=render) by Chris Chambers.
