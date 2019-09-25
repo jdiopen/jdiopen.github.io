@@ -6,10 +6,10 @@ Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open 
 
 ### Upcoming sessions (all 12-1 teaching room)
 - 30/9/2019: **Open peer review.** We will talk about the role of open science in the peer review process. We discuss four ways to make the peer review process more transperant and, ideally, improve its quality. **Note: this session is in the computer cluster room**
-- 14/10/2019: **Writing replicable methods.** 
+- 14/10/2019: **Responsible use of p-values.** 
 - 28/10/2019: **Responsible bibliometrics and the DORA declaration.** 
-- 11/11/2019: **Introduction to bayesian statistics.**
-- 25/11/2019: **The 'new' statistics: effect size, confidence interval, and p-value myths.**
+- 11/11/2019: **Writing replicable methods.** 
+- 25/11/2019: **Introduction to Bayesian statistics.** 
 - 9/12/2019: **Sharing sensitive data.**
 
 ### Previous sessions
