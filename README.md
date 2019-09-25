@@ -4,8 +4,13 @@ We are an open science journal-club & peer-mentoring group at the [UCL Jill Dand
 
 Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open science content! 
 
-### Upcoming sessions
-We'll be back after summer break! :-) 
+### Upcoming sessions (all 12-1 teaching room)
+- 30/9/2019: **Open peer review.** We will talk about the role of open science in the peer review process. We discuss four ways to make the peer review process more transperant and, ideally, improve its quality. **Note: this session is in the computer cluster room**
+- 14/10/2019: **Writing replicable methods.** 
+- 28/10/2019: **Responsible bibliometrics and the DORA declaration.** 
+- 11/11/2019: **Introduction to bayesian statistics.**
+- 25/11/2019: **The 'new' statistics: effect size, confidence interval, and p-value myths.**
+- 9/12/2019: **Sharing sensitive data.**
 
 ### Previous sessions
 - 10/6/2019: **Registered reports.** a publishing format that is increasingly popular and accepted in different journals. Registered reports change the incentives of publishing such that papers are accepted before the study is conducted and results are known. If you wonder how this can work, come along. We used [slides](https://mfr.osf.io/render?url=https://osf.io/ux24b/?action=download%26mode=render) by Chris Chambers.
