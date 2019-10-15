@@ -5,14 +5,13 @@ We are an open science journal-club & peer-mentoring group at the [UCL Jill Dand
 Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open science content! 
 
 ### Upcoming sessions (all 12-1 teaching room)
-
-- 14/10/2019: **'New statistics'.** We will discuss what some refer to as the 'new statistics' - effect size and confidence intervals - and debunk common myths about p-values. This session is especially useful for anyone who applies quantitative methods and follows the null-hypothesis-significance testing approach.
 - 28/10/2019: **Responsible bibliometrics and the DORA declaration.** 
 - 11/11/2019: **Writing replicable methods.** 
 - 25/11/2019: **Introduction to Bayesian statistics.** 
 - 9/12/2019: **Sharing sensitive data.**
 
 ### Previous sessions
+- 14/10/2019: **'New statistics'.** Wediscuss what some refer to as the 'new statistics' - effect size and confidence intervals - and debunk common myths about p-values. This session is especially useful for anyone who applies quantitative methods and follows the null-hypothesis-significance testing approach. [Slides.](http://jdiopen.github.io/pvalue.pptx)
 - 30/9/2019: **Open peer review.** We talk about the role of open science in the peer review process. We discuss four ways to make the peer review process more transperant and, ideally, improve its quality. Download slides [here](http://jdiopen.github.io/Open%20Peer%20Review.pptx).
 - 10/6/2019: **Registered reports.** a publishing format that is increasingly popular and accepted in different journals. Registered reports change the incentives of publishing such that papers are accepted before the study is conducted and results are known. If you wonder how this can work, come along. We used [slides](https://mfr.osf.io/render?url=https://osf.io/ux24b/?action=download%26mode=render) by Chris Chambers.
 - 23/5/2019: **Special: UCL Open Science Day.** We spoke about why and how we set up JDI Open during the UCL Open Science Day session 'building open science communities'. We discussed successes and challenges we have encountered, specifically within a highly cross-disciplinary department that deals with sensitive data on a daily basis. [Slides](jdiopen.github.io/osday.pdf).
