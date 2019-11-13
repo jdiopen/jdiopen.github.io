@@ -6,11 +6,11 @@ Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open 
 
 ### Upcoming sessions (all 12-1 teaching room)
 
-- 11/11/2019: **Writing replicable methods.** 
 - 25/11/2019: **Introduction to Bayesian statistics.** 
 - 9/12/2019: **Sharing sensitive data.**
 
 ### Previous sessions
+- 11/11/2019: **Writing replicable methods.** How to write methods sections that facilitate replication and, possibly, enhance study reproducibility. [Slides](http://jdiopen.github.io/repro_methods.pptx) and [recording](https://mediacentral.ucl.ac.uk/Player/56958119).
 - 28/10/2019: **Responsible bibliometrics and the DORA declaration.** We discuss journal impact factors and the problems associated with them, as well as the DORA declaration, why it is relevant, and how it is implemented at UCL. Slides [here](http://jdiopen.github.io/bibliometrics19.pdf).
 - 14/10/2019: **'New statistics'.** We discuss what some refer to as the 'new statistics' - effect size and confidence intervals - and debunk common myths about p-values. This session is especially useful for anyone who applies quantitative methods and follows the null-hypothesis-significance testing approach. [Slides](http://jdiopen.github.io/pvalue.pptx) and [recording](https://mediacentral.ucl.ac.uk/Play/19441).
 - 30/9/2019: **Open peer review.** We talk about the role of open science in the peer review process. We discuss four ways to make the peer review process more transperant and, ideally, improve its quality. Download slides [here](http://jdiopen.github.io/Open%20Peer%20Review.pptx).
