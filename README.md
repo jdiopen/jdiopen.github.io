@@ -6,10 +6,12 @@ Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open 
 
 ### Upcoming sessions (all 12-1 teaching room)
 
-- 25/11/2019: **Introduction to Bayesian statistics.** 
-- 9/12/2019: **Sharing sensitive data.**
+**TBA**
+
 
 ### Previous sessions
+- 9/12/2019: **Replication Case Study.** A special session with Tanja-Marie Hansen, a last-year PhD-student at the Center for War Studies, University of Southern Denmark. Tanja-Marie discusses replicating a study based on ISIS Twitter data: she will takes you through the journey from ‘original publication’ to ‘replication’, including her experiences with engaging with the authors of the original paper, and share how she (unintentionally) realized the value and importance of open science. [Slides](http://jdiopen.github.io/replication_tanjamarie.pptx)
+- 25/11/2019: **Introduction to Bayesian statistics.**  An introduction to the rationale behind Bayesian statistics + how to "do" Bayesian in JASP and R. This should be especially interesting for everyone who is only familiar with the frequentist, null-hypothesis-testing approach.
 - 11/11/2019: **Writing replicable methods.** How to write methods sections that facilitate replication and, possibly, enhance study reproducibility. [Slides](http://jdiopen.github.io/repro_methods.pptx) and [recording](https://mediacentral.ucl.ac.uk/Player/56958119).
 - 28/10/2019: **Responsible bibliometrics and the DORA declaration.** We discuss journal impact factors and the problems associated with them, as well as the DORA declaration, why it is relevant, and how it is implemented at UCL. Slides [here](http://jdiopen.github.io/bibliometrics19.pdf).
 - 14/10/2019: **'New statistics'.** We discuss what some refer to as the 'new statistics' - effect size and confidence intervals - and debunk common myths about p-values. This session is especially useful for anyone who applies quantitative methods and follows the null-hypothesis-significance testing approach. [Slides](http://jdiopen.github.io/pvalue.pptx) and [recording](https://mediacentral.ucl.ac.uk/Play/19441).
