@@ -5,11 +5,11 @@ We are an open science journal-club & peer-mentoring group at the [UCL Jill Dand
 Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open science content! 
 
 ### Upcoming sessions (all 12-1 teaching room)
-
-- 3/2/20: **Crowdsourcing online samples.** Need a large number of study participants in a short amount of time? Crowdsourcing may be the solution. On websites such as Prolific Academic and MTurk, you can draw from a large population of potential participants. We discuss implications of this method for open science, as well as ethical considerations. We provide practical tips and lessons drawn from conducting large-scale crowdsourcing studies. 
+TBA!
 
 
 ### Previous sessions
+- 3/2/20: **Crowdsourcing online samples.** Need a large number of study participants in a short amount of time? Crowdsourcing may be the solution. On websites such as Prolific Academic and MTurk, you can draw from a large population of potential participants. We discuss implications of this method for open science, as well as ethical considerations. We provide practical tips and lessons drawn from conducting large-scale crowdsourcing studies. [Slides.](http://jdiopen.github.io/crowdsourcing%20(1).pptx)
 - 20/1/20: **Open Science for Qualitative Research.** We discuss open science practices for researchers who use qualitative methods. While the open science community has long been dominated by quantitative researchers, the application of open science in qualitatives studies is now actively discussed. We will share key insights from these debates and introduce practical suggestions for pre-registrations and data sharing for qualitative research. Check out the [slides](http://jdiopen.github.io/Qualitative%20open%20science.pptx) for useful resources and further reading!
 - 9/12/19: **Replication Case Study.** A special session with Tanja-Marie Hansen, a last-year PhD-student at the Center for War Studies, University of Southern Denmark. Tanja-Marie discusses replicating a study based on ISIS Twitter data: she will takes you through the journey from ‘original publication’ to ‘replication’, including her experiences with engaging with the authors of the original paper, and share how she (unintentionally) realized the value and importance of open science. [Slides](http://jdiopen.github.io/replication_tanjamarie.pptx)
 - 25/11/19: **Introduction to Bayesian statistics.**  An introduction to the rationale behind Bayesian statistics + how to "do" Bayesian in JASP and R. This should be especially interesting for everyone who is only familiar with the frequentist, null-hypothesis-testing approach.
