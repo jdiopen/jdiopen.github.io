@@ -4,8 +4,8 @@ We are an open science journal-club & peer-mentoring group at the [UCL Jill Dand
 
 Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open science content! 
 
-### Upcoming sessions (all 12-1 teaching room)
-TBA!
+### No new sessions until further notice!
+Check out our [no-reading reading list (part 2)](jdiopen.github.io/noreadinglist2.pdf)instead!
 
 
 ### Previous sessions
