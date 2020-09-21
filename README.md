@@ -5,7 +5,7 @@ We are an open science journal-club & peer-mentoring group at the [UCL Jill Dand
 Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open science content! 
 
 ### We are back!
-- Virtual meeting on *Tuesday 13 October 12-1PM*, 'bring' your lunch! We recap an 'Intro to Open Science' and share our experiences with OS practices.
+- Virtual meeting on **Tuesday 13 October 12-1PM**, 'bring' your lunch! We recap an 'Intro to Open Science' and share our experiences with OS practices.
 - In the mean time, check out our [no-reading reading list (part 2)](https://jdiopen.github.io/noreadinglist2.pdf) instead!
 
 
