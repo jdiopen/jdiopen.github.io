@@ -5,7 +5,7 @@ We are an open science journal-club & peer-mentoring group at the [UCL Jill Dand
 Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open science content! 
 
 ### We are back!
-- 10/11/20: **Code Sharing pt. 2** 12-1PM on Zoom (check your UCL email or contact us!)
+- 10/11/20: **Code Sharing pt. 2**: 12-1PM on Zoom (check your UCL email or contact us!)
 - In the mean time, check out our [no-reading reading list (part 2)](https://jdiopen.github.io/noreadinglist2.pdf) instead!
 
 
