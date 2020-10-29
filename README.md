@@ -5,11 +5,13 @@ We are an open science journal-club & peer-mentoring group at the [UCL Jill Dand
 Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open science content! 
 
 ### We are back!
-- Virtual meeting on **Tuesday 13 October 12-1PM**, 'bring' your lunch! We recap an 'Intro to Open Science' and share our experiences with OS practices.
+- 10/11/20: **Code Sharing pt. 2** 12-1PM on Zoom (check your UCL email or contact us!)
 - In the mean time, check out our [no-reading reading list (part 2)](https://jdiopen.github.io/noreadinglist2.pdf) instead!
 
 
 ### Previous sessions
+- 27/10/20: **Code Sharing pt.1** We discuss (our experiences with) code sharing and introduce the [Code Check initiative](https://codecheck.org.uk/). A [**recording**](https://mediacentral.ucl.ac.uk/Play/43211) of this session is available for those who missed it!
+- 13/10/20: A new term! We recap an 'Intro to Open Science' and share our experiences with OS practices.
 - 3/2/20: **Crowdsourcing online samples.** Need a large number of study participants in a short amount of time? Crowdsourcing may be the solution. On websites such as Prolific Academic and MTurk, you can draw from a large population of potential participants. We discuss implications of this method for open science, as well as ethical considerations. We provide practical tips and lessons drawn from conducting large-scale crowdsourcing studies. [Slides.](http://jdiopen.github.io/crowdsourcing%20(1).pptx)
 - 20/1/20: **Open Science for Qualitative Research.** We discuss open science practices for researchers who use qualitative methods. While the open science community has long been dominated by quantitative researchers, the application of open science in qualitatives studies is now actively discussed. We will share key insights from these debates and introduce practical suggestions for pre-registrations and data sharing for qualitative research. Check out the [slides](http://jdiopen.github.io/Qualitative%20open%20science.pptx) for useful resources and further reading!
 - 9/12/19: **Replication Case Study.** A special session with Tanja-Marie Hansen, a last-year PhD-student at the Center for War Studies, University of Southern Denmark. Tanja-Marie discusses replicating a study based on ISIS Twitter data: she will takes you through the journey from ‘original publication’ to ‘replication’, including her experiences with engaging with the authors of the original paper, and share how she (unintentionally) realized the value and importance of open science. [Slides](http://jdiopen.github.io/replication_tanjamarie.pptx)
