@@ -5,7 +5,7 @@ We are an open science journal-club & peer-mentoring group at the [UCL Jill Dand
 Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open science content! 
 
 ### We are back!
-- 8/11/20: **Using GitHub to Create a Personal Website**: You will learn how to create an easy personal website using Github, no prior knowledge required. We’ll also discuss why it’s important to have a personal website from an open science perspective.
+- 8/11/20: **Using GitHub to Create a Personal Website**: You will learn how to create an easy personal website using Github, no prior knowledge required. We’ll also discuss why it’s important to have a personal website from an open science perspective. Join via Zoom!
 - In the mean time, check out our [no-reading reading list (part 2)](https://jdiopen.github.io/noreadinglist2.pdf)!
 
 
