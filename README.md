@@ -3,7 +3,7 @@
 We are an open science journal-club & peer-mentoring group at the [UCL Jill Dando Institute of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute). Our bi-weekly seminars provide the opportunity for students and staff at the department to learn about open science and discuss ideas to implement open science practices in their research.
 
 Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open science content! 
-[I'm a relative reference to a repository file](../blob/master/codesharing.pdf)
+[I'm a relative reference to a repository file](../master/codesharing.pdf)
 
 ### We are back!
 - 8/11/20: **Using GitHub to Create a Personal Website**: You will learn how to create an easy personal website using Github, no prior knowledge required. We’ll also discuss why it’s important to have a personal website from an open science perspective. Join via Zoom (find the link in your UCL email)!
