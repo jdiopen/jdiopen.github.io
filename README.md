@@ -4,14 +4,14 @@ We are an open science journal-club & peer-mentoring group at the [UCL Jill Dand
 
 Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open science content! 
 
-### We are back!
-- 8/11/20: **Using GitHub to Create a Personal Website**: You will learn how to create an easy personal website using Github, no prior knowledge required. We’ll also discuss why it’s important to have a personal website from an open science perspective. Join via Zoom (find the link in your UCL email)!
-- In the mean time, check out our [no-reading reading list (part 2)](https://jdiopen.github.io/noreadinglist2.pdf)!
+### We will be back in January!
+In the mean time, check out our [no-reading reading list (part 2)](https://jdiopen.github.io/noreadinglist2.pdf)!
 
 
 ### Previous sessions
-- 24/11/20: **The practicalities of doing a replication**: We discuss the benefits of doing replications and explore two key practical issues: how best to determine your sample size and how to judge the success of a replication.
-- 10/11/20: **Code Sharing pt. 2**: Learn all about README files, licenses, dependencies and compiling methods.
+- 8/12/20: **Using GitHub to Create a Personal Website**: You will learn how to create an easy personal website using Github, no prior knowledge required. We’ll also discuss why it’s important to have a personal website from an open science perspective. A [**recording**](https://mediacentral.ucl.ac.uk/Play/49615) of this session is available.
+- 24/11/20: **The practicalities of doing a replication**: We discuss the benefits of doing replications and explore two key practical issues: how best to determine your sample size and how to judge the success of a replication. Find the [**recording**]() here.
+- 10/11/20: **Code Sharing pt. 2**: Learn all about README files, licenses, dependencies and compiling methods. Here is the [**recording**]().
 - 27/10/20: **Code Sharing pt.1** We discuss (our experiences with) code sharing and introduce the [Code Check initiative](https://codecheck.org.uk/). A [**recording**](https://mediacentral.ucl.ac.uk/Play/43211) of this session is available for those who missed it! Or check out the slides [here](http://jdiopen.github.io/sharecode2020.pdf).
 - 13/10/20: A new term! We recap an 'Intro to Open Science' and share our experiences with OS practices.
 - 3/2/20: **Crowdsourcing online samples.** Need a large number of study participants in a short amount of time? Crowdsourcing may be the solution. On websites such as Prolific Academic and MTurk, you can draw from a large population of potential participants. We discuss implications of this method for open science, as well as ethical considerations. We provide practical tips and lessons drawn from conducting large-scale crowdsourcing studies. [Slides.](http://jdiopen.github.io/crowdsourcing%20(1).pptx)
