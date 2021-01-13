@@ -4,9 +4,8 @@ We are an open science journal-club & peer-mentoring group at the [UCL Jill Dand
 
 Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open science content! 
 
-### We will be back in January!
-In the mean time, check out our [no-reading reading list (part 2)](https://jdiopen.github.io/noreadinglist2.pdf)!
-
+### Next session
+- 19/1/21: **Transparant Data Visualisation**: The session is inspired by the excellent book Calling Bullsh*t: The Art of Scepticism in a Data-Driven Word. We will talk about ducks, the principle of proportional ink and other guidance to produce transparent illustrations of (quantitative) data.
 
 ### Previous sessions
 - 8/12/20: **Using GitHub to Create a Personal Website**: You will learn how to create an easy personal website using Github, no prior knowledge required. We’ll also discuss why it’s important to have a personal website from an open science perspective. A [**recording**](https://mediacentral.ucl.ac.uk/Play/49615) of this session is available.
