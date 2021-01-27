@@ -5,9 +5,10 @@ We are an open science journal-club & peer-mentoring group at the [UCL Jill Dand
 Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open science content! 
 
 ### Next session
-- 26/1/21: **Developing R packages**: In this session, Patricio will give a tutorial on how to develop your own R packages. This is also relevant for those of you who use Python. If you are only getting started with R, come along as well! Please see the invitation email for details about the relevant software that you should install so you can follow along.
+- tbd
 
 ### Previous sessions
+- 26/1/21: **Developing R packages**: In this session, Patricio will give a tutorial on how to develop your own R packages. This is also relevant for those of you who use Python. The full tutorial is available [here] (https://www.prestevez.com/post/r-package-tutorial/).
 - 19/1/21: **Transparant Data Visualisation**: The session is inspired by the excellent book Calling Bullsh*t: The Art of Scepticism in a Data-Driven Word. We will talk about ducks, the principle of proportional ink and other guidance to produce transparent illustrations of (quantitative) data. Please contact Sandy to get access to the slides and recording.
 - 8/12/20: **Using GitHub to Create a Personal Website**: You will learn how to create an easy personal website using Github, no prior knowledge required. We’ll also discuss why it’s important to have a personal website from an open science perspective. A [**recording**](https://mediacentral.ucl.ac.uk/Play/49615) of this session is available.
 - 24/11/20: **The practicalities of doing a replication**: We discuss the benefits of doing replications and explore two key practical issues: how best to determine your sample size and how to judge the success of a replication. Find the [**recording**](https://mediacentral.ucl.ac.uk/Play/49623) here.
@@ -33,8 +34,8 @@ Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open 
 - 10/12/18 **Sharing code, sharing data**. We present tools and strategies for sharing code and data, and discuss how you can address potential limitations to sharing (i.e., identifiable, personal data). [Recording](https://mediacentral.ucl.ac.uk/Play/16095) and [slides](jdiopen.github.io/codesharing.pdf). 
 - 26/11/18 **Open Access Publishing**: Opportunities and Challenges. Invited speakers from UCL Library Open Access Team discuss Plan S and (UCL) opportunities for OA publishing. [Slides](jdiopen.github.io/openaccess.ppt).
 - 12/11/18: **Open Science for your career**. We explore the role of open science in hiring and promotion, developments in the job market more broadly, as well as practical ways to highlight your open science practices in your CV. Slides [here.](jdiopen.github.io/openscience_dscs_12112018.pptx)
-- 15/10/18 **Introduction to Open Science**. Check out the [slides](jdiopen.github.io/introduction_slides.pptx) and [reading](https://psyarxiv.com/ak6jr).
 - 29/10/18 **How-to: preregistrations**. Readings [here](https://osf.io/2dxu5/) and [here](https://www.sciencedirect.com/science/article/pii/S0022103116301925), [slides](jdiopen.github.io/preregistrations.pptx) and [recording](https://mediacentral.ucl.ac.uk/Player/48885135).
+- 15/10/18 **Introduction to Open Science**. Check out the [slides](jdiopen.github.io/introduction_slides.pptx) and [reading](https://psyarxiv.com/ak6jr).
       
 
 ### Resources
