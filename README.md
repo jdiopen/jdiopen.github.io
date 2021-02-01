@@ -8,7 +8,7 @@ Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open 
 - tbd
 
 ### Previous sessions
-- 26/1/21: **Developing R packages**: In this session, Patricio will give a tutorial on how to develop your own R packages. This is also relevant for those of you who use Python. The full tutorial is available [here] (https://www.prestevez.com/post/r-package-tutorial/).
+- 26/1/21: **Developing R packages**: In this session, Patricio will give a tutorial on how to develop your own R packages. This is also relevant for those of you who use Python. The full tutorial is available [here](https://www.prestevez.com/post/r-package-tutorial/) and the video [here](https://mediacentral.ucl.ac.uk/Play/54427).
 - 19/1/21: **Transparant Data Visualisation**: The session is inspired by the excellent book Calling Bullsh*t: The Art of Scepticism in a Data-Driven Word. We will talk about ducks, the principle of proportional ink and other guidance to produce transparent illustrations of (quantitative) data. Please contact Sandy to get access to the slides and recording.
 - 8/12/20: **Using GitHub to Create a Personal Website**: You will learn how to create an easy personal website using Github, no prior knowledge required. We’ll also discuss why it’s important to have a personal website from an open science perspective. A [**recording**](https://mediacentral.ucl.ac.uk/Play/49615) of this session is available.
 - 24/11/20: **The practicalities of doing a replication**: We discuss the benefits of doing replications and explore two key practical issues: how best to determine your sample size and how to judge the success of a replication. Find the [**recording**](https://mediacentral.ucl.ac.uk/Play/49623) here.
