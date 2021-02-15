@@ -5,7 +5,7 @@ We are an open science journal-club & peer-mentoring group at the [UCL Jill Dand
 Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open science content! 
 
 ### Next session
-- tbd
+- 16/2/21: **Get to know the UCL Statement on Research Integrity**: Find the Concordat to support research integrity [here](https://www.universitiesuk.ac.uk/policy-and-analysis/reports/Documents/2019/the-concordat-to-support-research-integrity.pdf).
 
 ### Previous sessions
 - 26/1/21: **Developing R packages**: In this session, Patricio will give a tutorial on how to develop your own R packages. This is also relevant for those of you who use Python. The full tutorial is available [here](https://www.prestevez.com/post/r-package-tutorial/) and the video [here](https://mediacentral.ucl.ac.uk/Play/54427).
