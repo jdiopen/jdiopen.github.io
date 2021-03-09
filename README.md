@@ -2,11 +2,10 @@
 
 We are an open science journal-club & peer-mentoring group at the [UCL Jill Dando Institute of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute). Our bi-weekly seminars provide the opportunity for students and staff at the department to learn about open science and discuss ideas to implement open science practices in their research.
 
-Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open science content! 
+We wil be back next term! Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open science content! 
 
-### Next session
-- 9/3/21: **Avoiding Questionable Research Practices**: We will discuss the most common questionable research practices, their impact on data quality and replicability, as well as highlight open science practices that help us avoid QRPs.
 ### Previous sessions
+- 9/3/21: **Avoiding Questionable Research Practices**: We will discuss the most common questionable research practices, their impact on data quality and replicability, as well as highlight open science practices that help us avoid QRPs. Slides are available [here](https://github.com/jdiopen/jdiopen.github.io/blob/master/QRPs.pptx) 
 - 16/2/21: **Get to know the UCL Statement on Research Integrity**: Find the Concordat to support research integrity [here](https://www.universitiesuk.ac.uk/policy-and-analysis/reports/Documents/2019/the-concordat-to-support-research-integrity.pdf), UCL Statement on Research Integrity [here](https://www.ucl.ac.uk/research/integrity/sites/research_integrity/files/ucl_statement_on_research_integrity_2020.pdf), and UCL Transparancy Statement [here](https://www.ucl.ac.uk/research/sites/research/files/ucl_statement_on_transparency_in_research_november_20191.pdf). Slides are availble [here](https://github.com/jdiopen/jdiopen.github.io/blob/master/ucl%20research%20integrity%202.pptx).
 - 26/1/21: **Developing R packages**: In this session, Patricio will give a tutorial on how to develop your own R packages. This is also relevant for those of you who use Python. The full tutorial is available [here](https://www.prestevez.com/post/r-package-tutorial/) and the video [here](https://mediacentral.ucl.ac.uk/Play/54427).
 - 19/1/21: **Transparant Data Visualisation**: The session is inspired by the excellent book Calling Bullsh*t: The Art of Scepticism in a Data-Driven Word. We will talk about ducks, the principle of proportional ink and other guidance to produce transparent illustrations of (quantitative) data. Please contact Sandy to get access to the slides and recording.
