@@ -2,7 +2,11 @@
 
 We are an open science journal-club & peer-mentoring group at the [UCL Jill Dando Institute of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute). Our bi-weekly seminars provide the opportunity for students and staff at the department to learn about open science and discuss ideas to implement open science practices in their research.
 
-We wil be back next term! Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open science content! 
+Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open science content! 
+
+### Upcoming session
+- 27/4/21: **Conducting mini meta-analyses**: You have properly heard about meta-analyses as a tool to summarise the whole (quantitative) literature. It is less known that mini meta-analyses within a multi-study paper (even with as little as two studies) can also be useful to develop sounder and more rigorous conclusions. 
+The session will be based on Goh et al. (2016) [paper](https://onlinelibrary.wiley.com/doi/pdf/10.1111/spc3.12267?casa_token=xT_JKr_faYoAAAAA:djcdPJcGrPQyqiiAv36Rlr0hhfHBDFXGhDpc6H0gheGd4naTjXLXHJ8-_ZkpRXD4bFhfvM7r2xbCRLg) and will include information for how to run your own 'minis' using a simple spreadsheet that was developed by the authors.
 
 ### Previous sessions
 - 9/3/21: **Avoiding Questionable Research Practices**: We will discuss the most common questionable research practices, their impact on data quality and replicability, as well as highlight open science practices that help us avoid QRPs. Slides are available [here](https://github.com/jdiopen/jdiopen.github.io/blob/master/QRPs.pptx) and the recording [here](https://mediacentral.ucl.ac.uk/Play/59173).
