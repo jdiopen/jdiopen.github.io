@@ -5,9 +5,10 @@ We are an open science journal-club & peer-mentoring group at the [UCL Jill Dand
 Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open science content! 
 
 ### Upcoming session
-- 22/6/2021: **Defining the alpha level for hypothesis testing**: We will explore whether the typical alpha level of .05 is suitable for hypothesis testing, what alternatives are proposed, and how alpha and beta can be balanced.
+- We will be back next term!
 
 ### Previous sessions
+- **BONUS Festival of Code - Introduction to Open Science**: Find the slides [here](https://liveuclac-my.sharepoint.com/personal/uctcssc_ucl_ac_uk/_layouts/15/Doc.aspx?sourcedoc=%7B9c8d9742-0911-4e68-8b0f-b64d16e735bc%7D&action=default&slrid=57efd49f-2013-3000-00b3-25d423e6875e&originalPath=aHR0cHM6Ly9saXZldWNsYWMtbXkuc2hhcmVwb2ludC5jb20vOnA6L2cvcGVyc29uYWwvdWN0Y3NzY191Y2xfYWNfdWsvRVVLWGpad1JDV2hPaXctMlRSYm5OYndCWnh5dGNjdm1RcXRxU01yV1c1amE1UT9ydGltZT1jMlN5VTl3MjJVZw&cid=c6229534-dd59-4dbb-9950-43e21036aa93) and recording [here](https://mediacentral.ucl.ac.uk/Play/66897).
 - 8/6/21: **Specification Curve Analysis**: This session is an introduction to specification curve analysis, a tool to address (and visualise) how researchers' degrees of freedom during data analysis can affect results and conclusions that can be drawn from the data. The slides are available [here](https://github.com/jdiopen/jdiopen.github.io/blob/master/20210608%20-%20JDI%20Open%20-%20Specification%20Curve%20Analysis.pdf) and the recording can be found [here](https://mediacentral.ucl.ac.uk/Play/65886).
 - 11/5/21: **An Introduction to UCL High Performance Computing**: Learn about when and how to use the UCL HPC tools. The slides are available [here](https://github.com/jdiopen/jdiopen.github.io/blob/master/How%20to%20use%20UCL%20HPC(Doy%20Kwon).pdf) and the recording can be watched [here](https://mediacentral.ucl.ac.uk/Play/65885).
 - 27/4/21: **Conducting mini meta-analyses**: You have properly heard about meta-analyses as a tool to summarise the whole (quantitative) literature. It is less known that mini meta-analyses within a multi-study paper (even with as little as two studies) can also be useful to develop sounder and more rigorous conclusions. 
