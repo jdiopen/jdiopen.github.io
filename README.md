@@ -4,6 +4,8 @@ We are an open science journal-club & peer-mentoring group at the [UCL Jill Dand
 
 Follow us on [Twitter](https://twitter.com/JDI_Open) for event updates and open science content! 
 
+Below, you find the archive of previous sessions. Don't see what you are looking for? Check out the [Open Scholarship Knowledge Base](https://www.cos.io/communities/open-scholarship-knowledge-base).
+
 ### Upcoming session
 - We will be back next term!
 
